@@ -16,9 +16,10 @@ const path = require("path");
 const cors = require("cors");
 // Middleware configuration
 module.exports = (app) => {
+  const ORIGIN = process.env.ORIGIN || "http://localhost:3000";
   app.use(
     cors({
-      origin: ["http://localhost:3000"],
+      origin: [ORIGIN],
     })
   );
 
