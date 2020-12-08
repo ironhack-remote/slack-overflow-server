@@ -1,0 +1,87 @@
+[
+  {
+    "question": "How do you center things vertically in css",
+    "tags": ["css", "center", "align"],
+    "author": "Milena",
+    "topic": "css"
+  },
+  {
+    "question": "How do you kill a node server",
+    "tags": ["node", "server"],
+    "author": "Francisco",
+    "topic": "node"
+  },
+  {
+    "question": "When should we create a functional component in react?",
+    "tags": ["react", "js"],
+    "author": "Filipe",
+    "topic": "react"
+  },
+  {
+    "question": "With what operators can we short-circuit in JavaScript?",
+    "tags": ["react", "short-circuiting", "conditional-rendering"],
+    "author": "Filipe",
+    "topic": "js"
+  },
+  {
+    "question": "What is the format of a ternary in JS?",
+    "tags": ["ES6, js, conditional"],
+    "author": "Jorge",
+    "topic": "js"
+  },
+  {
+    "question": "How do you add flexbox to an html tag",
+    "tags": ["css", "flexbox", "html"],
+    "author": "Jorge",
+    "topic": "css"
+  },
+  {
+    "question": "What is the difference from .forEach and .map",
+    "tags": ["js", "ES6", "loops"],
+    "author": "Jorge",
+    "topic": "js"
+  },
+  {
+    "question": "What type of data does .filter returns?",
+    "tags": ["js", "ES6", "loops"],
+    "author": "Jorge",
+    "topic": "js"
+  },
+  {
+    "question": "What is the difference between a get request and a post request",
+    "tags": ["http", "backend", "servers"],
+    "author": "Jorge",
+    "topic": "backend"
+  },
+  {
+    "question": "What's the difference between declaring a function using a 'const' and the 'function' keyword?",
+    "tags": ["js"],
+    "author": "Filipe",
+    "topic": "javascript"
+  },
+
+  {
+    "question": "What is the meaning of life?",
+    "tags": ["philosophy"],
+    "author": "André",
+    "topic": "life"
+  },
+  {
+    "question": "What triggers a new render in React?",
+    "tags": ["react", "js"],
+    "author": "Filipe",
+    "topic": "react"
+  },
+  {
+    "question": "How do I create a rounded image?",
+    "tags": ["css", "border-radius"],
+    "author": "Rosana",
+    "topic": "css"
+  },
+  {
+    "question": "In which cases should I use a global variable?",
+    "tags": ["JavaScript", "variables"],
+    "author": "Rosana",
+    "topic": "JavaScript"
+  }
+]
