@@ -16,6 +16,8 @@ const path = require("path");
 const cors = require("cors");
 // Middleware configuration
 module.exports = (app) => {
+  app.set("trust proxy", 1);
+
   const ORIGIN = process.env.ORIGIN || "http://localhost:3000";
   app.use(
     cors({
